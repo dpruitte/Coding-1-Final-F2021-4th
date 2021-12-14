@@ -1,0 +1,25 @@
+body{
+    background-color: crimson;
+}
+
+
+
+.bio{
+    font-size: xx-large;
+}
+
+.ok{
+    background-color:rgb(73, 29, 194) ;
+}
+
+h6{
+    color: black;
+}
+
+.card-body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+h3{
+    font-family: cursive;
+}
